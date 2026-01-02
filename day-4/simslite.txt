@@ -1,0 +1,3 @@
+Matric No | Name | Department | Course Code | First Test | Second Test | Participation Mark | Exam | Total | Grade
+--------------------------------------------------------------------------------
+793744923 TP htre 786tr 13 12 5 47 77 A
